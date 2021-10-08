@@ -4,7 +4,7 @@ $ pkg install git
 
 $ pip install requests mechanize bs4
 
-$ git clone https://github.com/QUEEN-ZZA/nzza
+$ git clone https://github.com/QUEEN-ZZA/qnza
 
 $ cd qnza
 
